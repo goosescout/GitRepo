@@ -1,1 +1,14 @@
 Ветки master и human/demo отличаются количеством коммитов, а также в ветке master находятся readme файлы, были добавлены туда из других веток.
+В ветке master 12 коммитов  (не считая тот, который обновил этот файл):
+1) Create hometask.txt
+2) Merge remote-tracking branch 'human2/hat'
+3) Merge branch 'boots_buttons'
+4) Merge remote-tracking branch 'origin/buttons' into boots_buttons
+5) Merge remote-tracking branch 'origin/boots' into boots_buttons
+6) Initial commit
+7) fix readme
+8) dots
+9) README added
+10) boots
+11) heat added
+12) init
